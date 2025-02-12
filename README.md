@@ -1,4 +1,4 @@
-# Video-Download-YT-DLP
+# Video-Download
 Universal video downloader, just open and paste a link
 
 # Instalation
