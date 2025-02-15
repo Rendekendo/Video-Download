@@ -4,7 +4,7 @@ This script allows you to download videos from various websites, including YouTu
 
 ## Requirements
 - Python installed on your system
-- [FFMPEG installed](https://www.ffmpeg.org/download.html)
+- [FFMPEG](https://www.ffmpeg.org/download.html) installed
 - `yt-dlp` installed (`pip install yt-dlp`)
 
 ## How to Use
